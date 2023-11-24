@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madkur10
-- 👀 I’m interested in FrontEnd Developer
+- 👀 I’m interested in Backend Developer
 - 🌱 I’m currently learning javascript library (React js)
 - 💞️ I’m looking to collaborate on any project for my experience
 - 📫 How to reach me blackmadkur@gmail.com
